@@ -13,7 +13,7 @@
 ### `npm test`
 
 * launches the test runner -- via -- interactive watch mode
-* see [React's running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information
+* see [React's running tests](https://facebook.github.io/create-react-app/docs/running-tests)
 
 ### `npm run build`
 
