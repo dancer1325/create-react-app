@@ -6,6 +6,7 @@ sidebar_label: Troubleshooting
 
 ## `npm start` doesn’t detect changes
 
+* TODO:
 When you save a file while `npm start` is running, the browser should refresh with the updated code.
 
 If this doesn’t happen, try one of the following workarounds:

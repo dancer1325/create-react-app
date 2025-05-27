@@ -18,6 +18,7 @@ page. You can use it to log any of the results to the console or send to a parti
 
 ## Web Vitals
 
+* TODO:
 [Web Vitals](https://web.dev/vitals/) are a set of useful metrics that aim to capture the user
 experience of a web page. In Create React App, a third-party library is used to measure these
 metrics ([web-vitals](https://github.com/GoogleChrome/web-vitals)).
